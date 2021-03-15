@@ -1,0 +1,26 @@
+{
+  "id": "11c1dcdb-17e4-42b4-9d7a-ede5eabeebc1",
+  "name": "Return Complex Types App",
+  "publisher": "Dmitry Katson",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Demo1.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
